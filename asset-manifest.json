@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smexy-stock-market/static/css/main.8aff59d5.chunk.css",
+    "main.js": "/smexy-stock-market/static/js/main.d2d0c052.chunk.js",
+    "main.js.map": "/smexy-stock-market/static/js/main.d2d0c052.chunk.js.map",
+    "runtime-main.js": "/smexy-stock-market/static/js/runtime-main.5f0b98ad.js",
+    "runtime-main.js.map": "/smexy-stock-market/static/js/runtime-main.5f0b98ad.js.map",
+    "static/js/2.1f3c474d.chunk.js": "/smexy-stock-market/static/js/2.1f3c474d.chunk.js",
+    "static/js/2.1f3c474d.chunk.js.map": "/smexy-stock-market/static/js/2.1f3c474d.chunk.js.map",
+    "index.html": "/smexy-stock-market/index.html",
+    "precache-manifest.b25cc1ddd53492cafd9e2ca2ee42b2e8.js": "/smexy-stock-market/precache-manifest.b25cc1ddd53492cafd9e2ca2ee42b2e8.js",
+    "service-worker.js": "/smexy-stock-market/service-worker.js",
+    "static/css/main.8aff59d5.chunk.css.map": "/smexy-stock-market/static/css/main.8aff59d5.chunk.css.map",
+    "static/js/2.1f3c474d.chunk.js.LICENSE.txt": "/smexy-stock-market/static/js/2.1f3c474d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/smexy-stock-market/static/media/bg.b451faa2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f0b98ad.js",
+    "static/js/2.1f3c474d.chunk.js",
+    "static/css/main.8aff59d5.chunk.css",
+    "static/js/main.d2d0c052.chunk.js"
+  ]
+}
