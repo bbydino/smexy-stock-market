@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/smexy-stock-market/precache-manifest.b25cc1ddd53492cafd9e2ca2ee42b2e8.js"
+  "/smexy-stock-market/precache-manifest.80da7cf0fb7167fe88223fbabb5d1f6e.js"
 );
 
 self.addEventListener('message', (event) => {

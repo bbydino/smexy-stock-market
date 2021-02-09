@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13423d860f75607e0e6a8718a4819231",
+    "revision": "c0e18e0e135c0b60fb94769d34c7b4f7",
     "url": "/smexy-stock-market/index.html"
   },
   {
-    "revision": "b7ed61510375b41f30d5",
+    "revision": "83907c0721c1917dddd2",
     "url": "/smexy-stock-market/static/css/main.8aff59d5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smexy-stock-market/static/js/2.1f3c474d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7ed61510375b41f30d5",
-    "url": "/smexy-stock-market/static/js/main.d2d0c052.chunk.js"
+    "revision": "83907c0721c1917dddd2",
+    "url": "/smexy-stock-market/static/js/main.2572d649.chunk.js"
   },
   {
     "revision": "259ac2e0513c65abe973",
