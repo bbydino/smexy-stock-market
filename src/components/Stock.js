@@ -75,8 +75,8 @@ class Stock extends React.Component {
               },
             ]}
             layout={{
-              width: 900,
-              height: 500,
+              height: window.innerHeight/1.69,
+              width: window.innerWidth,
               title: this.state.stockTicker,
               paper_bgcolor: "#00000000",
               plot_bgcolor: "#00000000",
