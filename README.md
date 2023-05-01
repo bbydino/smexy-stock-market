@@ -4,6 +4,8 @@ sub to my YT: https://www.youtube.com/channel/UCTwC-PFmfAUMYmHUl1r_cZw
 
 PLEASE don't abuse my API key or else God will pass judgment on you. I love you! <3
 
+demo: https://bbydino.github.io/smexy-stock-market/
+
 ## Available Scripts
 
 In the project directory, you can run:
